@@ -226,7 +226,9 @@ procedure TFPeminjaman.CariClick(Sender: TObject);
 
 procedure TFPeminjaman.CetakBuktiPinjamClick(Sender: TObject);
   begin
-    if MessageDlg('Cetak Bukti Pembayaran ? ',mtConfirmation,[mbYes, mbNo],0)=id_YES then
+    if NoInduk.Text = '' then
+    else
+    if MessageDlg('Cetak Bukti Peminjaman ? ',mtConfirmation,[mbYes, mbNo],0)=id_YES then
     begin
       with DM.CetakBuktiPinjam do
       begin
