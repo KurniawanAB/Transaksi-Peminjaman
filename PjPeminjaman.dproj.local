@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/25 10.00.00.000.747,C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TCariBuku.dfm=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TCariBuku.dfm</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.747,C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TCariBuku.pas=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TCariBuku.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.156,=C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TUDM.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.143,C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TCariAnggota.dfm=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TCariAnggota.dfm</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.553,=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.853,C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TUDM.dfm=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TUDM.dfm</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.632,=C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TCariBuku.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.028,C:\Users\Kurniawan\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TPeminjaman.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.143,C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TCariAnggota.pas=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TCariAnggota.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.874,=C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TDaftarPeminjam.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.028,C:\Users\Kurniawan\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TPeminjaman.dfm</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.394,=C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TCariAnggota.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.425,C:\Users\Kurniawan\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\PjPeminjaman.dproj</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.853,C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TUDM.pas=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TUDM.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.899,C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TDaftarPeminjam.pas=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TDaftarPeminjam.pas</Transaction>
+    <Transaction>2018/03/25 10.00.00.000.899,C:\Users\Kurniawan\Documents\RAD Studio\Projects\New folder\TDaftarPeminjam.dfm=C:\Users\Kurniawan\Documents\RAD Studio\Projects\Transaksi\Peminjaman\TDaftarPeminjam.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
